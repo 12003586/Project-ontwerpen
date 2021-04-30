@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "PS1440P02BT"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "PS1440P02BT")
+        (spec "default")
+    )
+)

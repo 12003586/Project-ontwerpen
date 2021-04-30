@@ -1,0 +1,67 @@
+(Japanese_coding: sjis)
+(function "ECS_230552"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-01-11-13:10:18)
+    (utime 2018-05-24-11:05:09)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "12061A102FAT2A")
+)
+
+
+(pinAssign "ECS_230552"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-01-11-13:10:18)
+    (utime 2018-05-24-11:05:09)
+    (interface
+        (port "1" (symbPinId 1) (portName "C1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "C2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_230552")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "12061A102FAT2A")
+)
+
+
+(part "12061A102FAT2A"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-01-11-13:10:18)
+    (utime 2018-05-24-11:05:09)
+    (packageRef "12061A102FAT2A")
+    (pinAssignRef "ECS_230552")
+    (interface
+        (port "1" (symbPinId 1) (portName "C1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "C2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "C")
+    (property "description" "Capacitor 1206 1000PF +/-1% 100V")
+    (property "Manufacturer_Name" "AVX")
+    (property "Manufacturer_Part_Number" "12061A102FAT2A")
+    (property "Mouser_Part_Number" "")
+    (property "Mouser_Price/Stock" "")
+    (property "Arrow_Part_Number" "")
+    (property "Arrow_Price/Stock" "")
+    (property "Datasheet_Link" "")
+)
+
+

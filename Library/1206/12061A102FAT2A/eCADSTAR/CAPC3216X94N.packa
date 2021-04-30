@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "12061A102FAT2A"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2018-06-06-11:10:45)
+    (mountForm default
+        (footprintRef "CAPC3216X94N")
+        (spec "System")
+    )
+)

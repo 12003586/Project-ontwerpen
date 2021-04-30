@@ -1,0 +1,17 @@
+.PS1420P02CT :1 ;Buzzer Piezo,5V,70dB,Radial
+PS1440P02BT
+*STM LS
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN PS1420P02CT
+~!Manufacturer_Name (TDK)
+~!Manufacturer_Part_Number (PS1420P02CT)
+~!Mouser Part Number (810-PS1420P02CT)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/TDK/PS1420P02CT/?qs=%2FYUS%2FYztVmCoyuykscZK%252Bw%3D%3D)
+~!Arrow Part Number (PS1420P02CT)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/ps1420p02ct/tdk)
+~!Link Datasheet (https://product.tdk.com/info/en/catalog/datasheets/piezoelectronic_buzzer_ps_en.pdf)
+~!Height (-)
+PS1420P02CT
+1.1!U 2.1!U 

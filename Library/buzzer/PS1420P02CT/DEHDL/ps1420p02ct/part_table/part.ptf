@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'PS1420P02CT'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "TDK", "PS1420P02CT" (!) = "", "PS1440P02BT", "Other", "810-PS1420P02CT", "https://www.mouser.co.uk/ProductDetail/TDK/PS1420P02CT/?qs=%2FYUS%2FYztVmCoyuykscZK%252Bw%3D%3D", "PS1420P02CT", "https://www.arrow.com/en/products/ps1420p02ct/tdk", "Buzzer Piezo,5V,70dB,Radial", "https://product.tdk.com/info/en/catalog/datasheets/piezoelectronic_buzzer_ps_en.pdf"
+END_PART
+
+END.

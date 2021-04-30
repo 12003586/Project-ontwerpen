@@ -1,0 +1,9 @@
+Manufacturer=AVX
+PartNumber=12061A102FAT2A
+PartCategory=Capacitor
+PackageCategory=Other
+PinCount=2
+Version=2.1
+Released=2017-01-11 13:10:18
+Downloaded=2021-04-27 19:11:21
+3D=N

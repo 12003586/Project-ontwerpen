@@ -1,0 +1,17 @@
+.12061A102FAT2A :1 ;Capacitor 1206 1000PF +/-1% 100V
+CAPC3216X94N
+*STM C
+*NGS
+*PLB 1="C1" 2="C2"
+*MXP 2
+*DFN 12061A102FAT2A
+~!Manufacturer_Name (AVX)
+~!Manufacturer_Part_Number (12061A102FAT2A)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (-)
+~!Height (-)
+"12061A102FAT2A"
+1.1!U 2.1!U 

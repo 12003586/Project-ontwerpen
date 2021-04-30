@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PS1420P02CT
+D Buzzer Piezo,5V,70dB,Radial
+K
+F https://product.tdk.com/info/en/catalog/datasheets/piezoelectronic_buzzer_ps_en.pdf
+$ENDCMP
+#
+#End Doc Library

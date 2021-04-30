@@ -1,0 +1,9 @@
+Manufacturer=TDK
+PartNumber=PS1420P02CT
+PartCategory=Loudspeaker or Buzzer
+PackageCategory=Other
+PinCount=2
+Version=1.1
+Released=2018-11-08 19:51:25
+Downloaded=2021-04-27 19:12:11
+3D=N

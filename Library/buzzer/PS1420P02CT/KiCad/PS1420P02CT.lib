@@ -1,0 +1,25 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model PS1420P02CT
+#/295735/443398/2.49/2/4/Loudspeaker or Buzzer
+DEF PS1420P02CT LS 0 30 Y Y 1 F N
+F0 "LS" 650 300 50 H V L CNN
+F1 "PS1420P02CT" 650 200 50 H V L CNN
+F2 "PS1440P02BT" 650 100 50 H I L CNN
+F3 "https://product.tdk.com/info/en/catalog/datasheets/piezoelectronic_buzzer_ps_en.pdf" 650 0 50 H I L CNN
+F4 "Buzzer Piezo,5V,70dB,Radial" 650 -100 50 H I L CNN "Description"
+F5 "" 650 -200 50 H I L CNN "Height"
+F6 "TDK" 650 -300 50 H I L CNN "Manufacturer_Name"
+F7 "PS1420P02CT" 650 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "810-PS1420P02CT" 650 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/TDK/PS1420P02CT/?qs=%2FYUS%2FYztVmCoyuykscZK%252Bw%3D%3D" 650 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "PS1420P02CT" 650 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/ps1420p02ct/tdk" 650 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X 1 1 0 0 200 R 50 50 0 0 P
+X 2 2 0 -100 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 600 100 600 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

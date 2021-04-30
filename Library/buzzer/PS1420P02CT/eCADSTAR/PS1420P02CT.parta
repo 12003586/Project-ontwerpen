@@ -1,0 +1,67 @@
+(Japanese_coding: sjis)
+(function "ECS_295735"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-11-08-19:51:25)
+    (utime 2018-11-09-06:31:42)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "PS1420P02CT")
+)
+
+
+(pinAssign "ECS_295735"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-11-08-19:51:25)
+    (utime 2018-11-09-06:31:42)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_295735")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "PS1420P02CT")
+)
+
+
+(part "PS1420P02CT"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-11-08-19:51:25)
+    (utime 2018-11-09-06:31:42)
+    (packageRef "PS1420P02CT")
+    (pinAssignRef "ECS_295735")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "LS")
+    (property "description" "Buzzer Piezo,5V,70dB,Radial")
+    (property "Manufacturer_Name" "TDK")
+    (property "Manufacturer_Part_Number" "PS1420P02CT")
+    (property "Mouser_Part_Number" "810-PS1420P02CT")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/TDK/PS1420P02CT/?qs=%2FYUS%2FYztVmCoyuykscZK%252Bw%3D%3D")
+    (property "Arrow_Part_Number" "PS1420P02CT")
+    (property "Arrow_Price/Stock" "https://www.arrow.com/en/products/ps1420p02ct/tdk")
+    (property "Datasheet_Link" "https://product.tdk.com/info/en/catalog/datasheets/piezoelectronic_buzzer_ps_en.pdf")
+)
+
+
